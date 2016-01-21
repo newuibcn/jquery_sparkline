@@ -1,0 +1,15 @@
+{
+  "jspm": {
+    "files": [
+      "src",
+      "dist"
+    ],
+    "main": "dist/jquery.sparkline",
+    "map": {
+      "jquery.sparkline-chart": "./dist/jquery.sparkline"
+    },
+    "buildConfig": {
+      "uglify": true
+    }
+  }
+}
